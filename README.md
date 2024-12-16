@@ -51,10 +51,10 @@ Aim to have a hand value close to 21 without going over.
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ALTHENATAM/OOP-Project.git
+   git clone https://github.com/NguyenHieu-24/OOP_BlackJack_Project.git
 2. Navigate to the project directory:
    ```bash
-   cd OOP-Project
+   cd OOP_BlackJack_Project
 3. Run the game:
    ```bash
    Tester.java
