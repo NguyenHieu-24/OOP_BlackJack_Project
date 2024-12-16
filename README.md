@@ -23,7 +23,7 @@ Despite acknowledging the potential risks and challenges associated with venturi
 Aim to have a hand value close to 21 without going over.
 
 ### Card Values
-- Number cards are face value.
+- Number cards are at face value.
 - Face cards (J, Q, K) are 10 points.
 - Aces can be 1 or 11 points.
 
@@ -43,7 +43,7 @@ Aim to have a hand value close to 21 without going over.
 
 ## Features
 
-- **Login:** Secure login system for players.
+- **Login:** A secure login system for players is needed.
 - **Display:** User-friendly interface for gameplay.
 - **Play Game:** Comprehensive game logic for Blackjack.
 
@@ -68,10 +68,10 @@ GUI gameplay
 
 Select HELP if you don't know the rules
 
-If you feel ok, click Play button to strat game.
+If you feel ok, click the Play button to start the game.
 ![Image Alt Text](images/img_3.png)
 
-Click the coin to make bet.
+Click the coin to make a bet.
 ![Image Alt Text](images/img_4.png)
 
 Select the amount you want and enjoy the game !!!
