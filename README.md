@@ -61,21 +61,21 @@ To run this project locally, follow these steps:
 
 ### Overview
 Firstly, you have to enter the amount you want to play
-![Image Alt Text](images/img_1.png)
+![Image Alt Text](OOP-Project-main/images/img_1.png)
 
 GUI gameplay
-![Image Alt Text](images/img_2.png)
+![Image Alt Text](OOP-Project-main/images/img_2.png)
 
 Select HELP if you don't know the rules
 
 If you feel ok, click the Play button to start the game.
-![Image Alt Text](images/img_3.png)
+![Image Alt Text](OOP-Project-main/images/img_3.png)
 
 Click the coin to make a bet.
-![Image Alt Text](images/img_4.png)
+![Image Alt Text](OOP-Project-main/images/img_4.png)
 
 Select the amount you want and enjoy the game !!!
-![Image Alt Text](images/img_5.png)
+![Image Alt Text](OOP-Project-main/images/img_5.png)
 
 ## Contributing
 - Nguyen Nguyen Hieu - ITDSIU21087
