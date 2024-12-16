@@ -75,7 +75,7 @@ Click the coin to make a bet.
 ![Image Alt Text](OOP-Project-main/images/img_4.png)
 
 Select the amount you want and enjoy the game !!!
-![Image Alt Text](OOP-Project-main/images/img_5.png)
+![Image Alt Text](OOP-Project-main/images/img.png)
 
 ## Contributing
 - Nguyen Nguyen Hieu - ITDSIU21087
